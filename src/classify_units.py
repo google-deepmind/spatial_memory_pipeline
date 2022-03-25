@@ -24,7 +24,7 @@ def _make_intervals(x):
   return np.concatenate([
       [x[0] - d[0] / 2.0],  # first interval's left bound
       x[:-1] + d / 2.0,  # interval separations
-      [x[-1] + d[-1] / 2.0] # last interval's right bound
+      [x[-1] + d[-1] / 2.0]  # last interval's right bound
   ])
 
 
