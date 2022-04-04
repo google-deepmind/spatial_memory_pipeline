@@ -14,10 +14,10 @@ the properties of the learned head-direction network.
 
 We provide one Colab notebook to reproduce each of figures 2 and 3 of [1]:
 
-* [Figure 2](https://colab.research.google.com/github/deepmind/deepmind_research/blob/master/spatial_memory_pipeline/figure_2.ipynb): displaying the types and distribution of the
-  spatial representations. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/deepmind_research/blob/master/spatial_memory_pipeline/figure_2.ipynb)
+* [Figure 2](https://colab.research.google.com/github/deepmind/blob/master/spatial_memory_pipeline/figure_2.ipynb): displaying the types and distribution of the
+  spatial representations. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/blob/master/spatial_memory_pipeline/figure_2.ipynb)
 
-* [Figure 3](https://colab.research.google.com/github/deepmind/deepmind_research/blob/master/spatial_memory_pipeline/figure_3.ipynb): analyzing the trained head-direction cell network. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/deepmind_research/blob/master/spatial_memory_pipeline/figure_3.ipynb)
+* [Figure 3](https://colab.research.google.com/github/deepmind/blob/master/spatial_memory_pipeline/figure_3.ipynb): analyzing the trained head-direction cell network. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/blob/master/spatial_memory_pipeline/figure_3.ipynb)
 
 ## References
 
