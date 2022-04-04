@@ -24,7 +24,7 @@ We provide one Colab notebook to reproduce each of figures 2 and 3 of [1]:
 [1] Benigno Uria, Borja Ibarz, Andrea Banino, Vinicius Zambaldi,
 Dharshan Kumaran, Demis Hassabis, Caswell Barry, Charles Blundell.
 *The Spatial Memory Pipeline: a model of egocentric to allocentric
-understanding in mammalian brains*. [bioRxiv 2020.11.11.378141](https://www.biorxiv.org/content/10.1101/2020.11.11.378141v1.full)
+understanding in mammalian brains*. [bioRxiv 2020.11.11.378141](https://www.biorxiv.org/content/10.1101/2020.11.11.378141v2)
 
 ## Disclaimer
 
